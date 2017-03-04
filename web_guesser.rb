@@ -1,3 +1,4 @@
+
 require 'sinatra'
 
 get '/' do
